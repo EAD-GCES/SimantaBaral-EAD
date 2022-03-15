@@ -2,7 +2,7 @@
 
 The GEA Framework is the enterprise architecture framework that assists the delivery of consistent and cohesive services to the citizens and facilitate them with digital services in an efficient manner. 
 
-The  GEA  framework  has  been  elaborated  in  seven  documents  corresponding  to  each  of  the above  seven  dimensions. Thehorizontal  layers  in  the  GEA  frameworkrepresenting  the  four dimensions i.e. Business, Information, Application and Infrastructure, form the core of the GEA framework and each of thesefour dimensions have three key elements:
+The  GEA  framework  has  been  elaborated  in  seven  documents  corresponding  to  each  of  the above  seven  dimensions. Thehorizontal  layers  in  the  GEA  frameworkrepresenting  the four dimensions i.e. Business, Information, Application and Infrastructure, form the core of the GEA framework and each of thesefour dimensions have three key elements:
 
 1. Architecture: This section provides conceptual view of the architectural components andcapabilities for each dimension depicting relationships between the dimensional architecturalcomponents.
 2. Standards:  This  section  provides  relevant  standards  for  each  of  the  dimensions  with  each  standard categorized for compliance purpose as either mandatory, recommended or optional.
